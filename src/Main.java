@@ -103,7 +103,7 @@ void main() {
                 continuar = false;
                 break;
             default:
-                IO.println("1- Nova Reserva");
+                IO.println("Escolha alguma opção das opções disponiveis");
                 break;
         }
     }while(continuar);
